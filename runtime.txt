@@ -1,1 +1,1 @@
-pyhton 3.6.15
+pyhton 3.10.4
