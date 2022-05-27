@@ -1,5 +1,5 @@
 import sqlite3
-from msilib.text import tables
+from sqlite3 import tables
 
 
 DATABASE_NAME = "db_tekkom_0413.db"
